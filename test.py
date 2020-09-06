@@ -4,9 +4,10 @@ import numpy as np
 def my_print(s: str):
     print(s)
     print("test change")
-    print("add changes in dev")
-    print("add change from origin master")
    
+def add_local_file(c):
+    print(c)
+
 def function_from_origin(a):
     print("modify the function")
     return a+3
