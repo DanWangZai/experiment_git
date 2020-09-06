@@ -14,5 +14,7 @@ def function_from_origin(a):
 
 def add_new_function_from_origin(b):
     return b
-    
+
+def add_second_local_fun():
+    return 
 
