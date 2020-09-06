@@ -7,6 +7,10 @@ def my_print(s: str):
     print("test change")
     print("add changes in dev")
 
-
 def local_added_function(c):
     return c
+
+       
+def function_from_origin(a):
+    return a+3
+
