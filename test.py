@@ -6,10 +6,10 @@ def my_print(s: str):
     print("test change")
    
 def add_local_file(c):
+    print("modify origin function")
     print(c)
 
 def function_from_origin(a):
-    print("modify the function")
     return a+3
 
 def add_new_function_from_origin(b):
