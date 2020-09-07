@@ -1,4 +1,5 @@
-there is no content
+def add_new_content:
+    return 3
 
 def add_from_origin:
     print('edit from local')
@@ -6,3 +7,7 @@ def add_from_origin:
 
 def create_from_local:
     return 2
+
+def add_more:
+    return 4
+
